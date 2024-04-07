@@ -1,0 +1,25 @@
+Timestamp: 2024-02-24 00:56:32
+------------------------------
+Ratings on a scale from 1-5 stars.
+Satisfaction with the staff: 4
+Temperature rating of food: 4
+Love of decoration: 3
+Level of cleaniness: 4
+
+
+-------------------- END OF FEEDBACK --------------------
+
+
+Timestamp: 2024-02-24 14:02:57
+------------------------------
+Ratings on a scale from 1-5 stars.
+Taste of food: 4
+Satisfaction with the staff: 4
+Temperature rating of food: 5
+Love of decoration: 4
+Level of cleaniness: 5
+
+
+-------------------- END OF FEEDBACK --------------------
+
+
