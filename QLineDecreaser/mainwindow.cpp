@@ -253,7 +253,10 @@ void MainWindow::on_pushButton_5_clicked()
     // Ha nincs termék a kosrában => Ide kellene egy felugrő ablak.
     if (ui->textEditNum->text().isEmpty() && ui->checkTakeOrder->isChecked() == false) {
         QMessageBox::warning(this, "No order mode selected.", "Please, mark the way you want to get the order. :)");
+    } else if (ui->textEditNum->text().isEmpty() == false && ui->checkTakeOrder->isChecked() == true){
+        QMessageBox::warning(this, "Both order mode selected.", "Please, choose one way of getting the order. :)");
     } else {
+
 
     if (ui->textEditName->text().isEmpty()) {
          ui->textEditName->setText("Anonym");
@@ -555,6 +558,8 @@ void MainWindow::on_pushBackToMain_2_clicked()
     // Fájl bezárása!
     outputFileFB.close();
 
+    resetRadioButtons();
+
     // Átirányítás a thank_page oldalra.
     ui->stackedWidget->setCurrentIndex(5);
     }
@@ -565,4 +570,39 @@ void MainWindow::on_pushBackToMain_4_clicked()
 {
     ui->stackedWidget->setCurrentIndex(4);
 }
+
+void MainWindow::resetRadioButtons()
+{
+    // RadioButton elemek kijelöltségének eltávolítása
+    ui->tasteVeryLow->setChecked(false);
+    ui->tasteLow->setChecked(false);
+    ui->tasteMedium->setChecked(true);
+    ui->tasteHigh->setChecked(false);
+    ui->tasteVeryHigh->setChecked(false);
+
+    ui->staffVeryLow->setChecked(false);
+    ui->staffLow->setChecked(false);
+    ui->staffMedium->setChecked(true);
+    ui->staffHigh->setChecked(false);
+    ui->staffVeryHigh->setChecked(false);
+
+    ui->tempVeryLow->setChecked(false);
+    ui->tempLow->setChecked(false);
+    ui->tempMedium->setChecked(true);
+    ui->tempHigh->setChecked(false);
+    ui->tempVeryHigh->setChecked(false);
+
+    ui->decorVeryLow->setChecked(false);
+    ui->decorLow->setChecked(false);
+    ui->decorMedium->setChecked(true);
+    ui->decorHigh->setChecked(false);
+    ui->decorVeryHigh->setChecked(false);
+
+    ui->cleanVeryLow->setChecked(false);
+    ui->cleanLow->setChecked(false);
+    ui->cleanMedium->setChecked(true);
+    ui->cleanHigh->setChecked(false);
+    ui->cleanVeryHigh->setChecked(false);
+}
+
 

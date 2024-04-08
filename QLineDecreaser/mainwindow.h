@@ -76,6 +76,8 @@ private slots:
 
     void on_pushBackToMain_4_clicked();
 
+    void resetRadioButtons();
+
 private:
     Ui::MainWindow *ui;
     QTimer *timer;

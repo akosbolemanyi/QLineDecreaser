@@ -90,3 +90,38 @@ Total: 		 $0
 -------------------- END OF RECEIPT --------------------
 
 
+Receipt number: 1015019
+Customer name: BUBU
+Order number: 7
+Timestamp: 2024-04-08 00:27:51
+----------------------
+Items 		 Price
+Popcorn		  $4.5
+Popcorn		  $4.5
+Popcorn		  $4.5
+Popcorn		  $4.5
+Popcorn		  $4.5
+Nachos		  $4.5
+Nachos menu 	  $5.8
+----------------------
+Total: 		 $32.8
+
+
+-------------------- END OF RECEIPT --------------------
+
+
+Receipt number: 1009845
+Customer name: Anonym
+Order number: yasas
+Timestamp: 2024-04-08 11:09:53
+----------------------
+Items 		 Price
+Coke		 $1.6
+Coke		 $1.6
+----------------------
+Total: 		 $3.2
+
+
+-------------------- END OF RECEIPT --------------------
+
+
