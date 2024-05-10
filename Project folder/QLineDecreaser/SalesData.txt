@@ -1,0 +1,127 @@
+Receipt number: 1004074
+Customer name: Anna loves popcorn
+Order number: 11
+Timestamp: 2024-02-24 00:55:24
+----------------------
+Items 		 Price
+Popcorn		  $4.5
+Popcorn		  $4.5
+Popcorn		  $4.5
+Popcorn		  $4.5
+Popcorn		  $4.5
+Popcorn		  $4.5
+Popcorn		  $4.5
+Popcorn		  $4.5
+Popcorn		  $4.5
+Popcorn		  $4.5
+Popcorn menu 	  $5.8
+Popcorn menu 	  $5.8
+Popcorn menu 	  $5.8
+Popcorn menu 	  $5.8
+Popcorn menu 	  $5.8
+Popcorn menu 	  $5.8
+Popcorn menu 	  $5.8
+Popcorn menu 	  $5.8
+----------------------
+Total: 		 $91.4
+
+
+-------------------- END OF RECEIPT --------------------
+
+
+Receipt number: 1027229
+Customer name: Ákos
+Order number: 121
+Timestamp: 2024-02-24 14:02:39
+----------------------
+Items 		 Price
+Popcorn		  $4.5
+Coke		 $1.6
+Popcorn menu 	  $5.8
+----------------------
+Total: 		 $11.9
+
+
+-------------------- END OF RECEIPT --------------------
+
+
+Receipt number: 1028754
+Customer name: 
+Order number: 
+Timestamp: 2024-02-24 14:09:28
+----------------------
+Items 		 Price
+Zero Coke 	  $1.6
+Zero Coke 	  $1.6
+----------------------
+Total: 		 $3.2
+
+
+-------------------- END OF RECEIPT --------------------
+
+
+Receipt number: 1031540
+Customer name: Anonym
+Order number: 121
+Timestamp: 2024-02-24 14:23:43
+----------------------
+Items 		 Price
+Zero Coke 	  $1.6
+Zero Coke 	  $1.6
+Popcorn menu 	  $5.8
+Popcorn menu 	  $5.8
+----------------------
+Total: 		 $14.8
+
+
+-------------------- END OF RECEIPT --------------------
+
+
+Receipt number: 1002390
+Customer name: Anonym
+Order number: not selected
+Timestamp: 2024-02-24 14:42:12
+----------------------
+Items 		 Price
+----------------------
+Total: 		 $0
+
+
+-------------------- END OF RECEIPT --------------------
+
+
+Receipt number: 1015019
+Customer name: BUBU
+Order number: 7
+Timestamp: 2024-04-08 00:27:51
+----------------------
+Items 		 Price
+Popcorn		  $4.5
+Popcorn		  $4.5
+Popcorn		  $4.5
+Popcorn		  $4.5
+Popcorn		  $4.5
+Nachos		  $4.5
+Nachos menu 	  $5.8
+----------------------
+Total: 		 $32.8
+
+
+-------------------- END OF RECEIPT --------------------
+
+
+Receipt number: 1009845
+Customer name: Anonym
+Order number: yasas
+Timestamp: 2024-04-08 11:09:53
+----------------------
+Items 		 Price
+Coke		 $1.6
+Coke		 $1.6
+----------------------
+Total: 		 $3.2
+
+
+-------------------- END OF RECEIPT --------------------
+
+
