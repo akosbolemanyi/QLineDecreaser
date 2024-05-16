@@ -1,0 +1,9 @@
+C:/Users/bolem_ptuqj/Documents/Projektek/QLineDecreaser Executable/CMakeFiles/QLineDecreaser.dir
+C:/Users/bolem_ptuqj/Documents/Projektek/QLineDecreaser Executable/CMakeFiles/edit_cache.dir
+C:/Users/bolem_ptuqj/Documents/Projektek/QLineDecreaser Executable/CMakeFiles/rebuild_cache.dir
+C:/Users/bolem_ptuqj/Documents/Projektek/QLineDecreaser Executable/CMakeFiles/list_install_components.dir
+C:/Users/bolem_ptuqj/Documents/Projektek/QLineDecreaser Executable/CMakeFiles/install.dir
+C:/Users/bolem_ptuqj/Documents/Projektek/QLineDecreaser Executable/CMakeFiles/install/local.dir
+C:/Users/bolem_ptuqj/Documents/Projektek/QLineDecreaser Executable/CMakeFiles/install/strip.dir
+C:/Users/bolem_ptuqj/Documents/Projektek/QLineDecreaser Executable/CMakeFiles/QLineDecreaser_autogen_timestamp_deps.dir
+C:/Users/bolem_ptuqj/Documents/Projektek/QLineDecreaser Executable/CMakeFiles/QLineDecreaser_autogen.dir

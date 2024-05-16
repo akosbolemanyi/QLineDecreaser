@@ -1,0 +1,35 @@
+{
+	"BUILD_DIR" : "C:/Users/bolem_ptuqj/Documents/Projektek/QLineDecreaser Build/QLineDecreaser_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/bolem_ptuqj/Documents/Projektek/QLineDecreaser Build",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/bolem_ptuqj/Documents/Projektek/QLineDecreaser Build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/bolem_ptuqj/Documents/Projektek/QLineDecreaser",
+	"CMAKE_SOURCE_DIR" : "C:/Users/bolem_ptuqj/Documents/Projektek/QLineDecreaser",
+	"INCLUDE_DIR" : "C:/Users/bolem_ptuqj/Documents/Projektek/QLineDecreaser Build/QLineDecreaser_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/bolem_ptuqj/Documents/Projektek/QLineDecreaser/nachos_logo.png",
+		"C:/Users/bolem_ptuqj/Documents/Projektek/QLineDecreaser/nachos_logo.jpg",
+		"C:/Users/bolem_ptuqj/Documents/Projektek/QLineDecreaser/pay_icon.png",
+		"C:/Users/bolem_ptuqj/Documents/Projektek/QLineDecreaser/thumbup.png",
+		"C:/Users/bolem_ptuqj/Documents/Projektek/QLineDecreaser/left_popcorn.png",
+		"C:/Users/bolem_ptuqj/Documents/Projektek/QLineDecreaser/products_icon.png",
+		"C:/Users/bolem_ptuqj/Documents/Projektek/QLineDecreaser/popcorn_logo.png",
+		"C:/Users/bolem_ptuqj/Documents/Projektek/QLineDecreaser/feedback_icon.png",
+		"C:/Users/bolem_ptuqj/Documents/Projektek/QLineDecreaser/smile.png",
+		"C:/Users/bolem_ptuqj/Documents/Projektek/QLineDecreaser/main_icon.png",
+		"C:/Users/bolem_ptuqj/Documents/Projektek/QLineDecreaser/right_popcorn.png",
+		"C:/Users/bolem_ptuqj/Documents/Projektek/QLineDecreaser/cart_icon.png",
+		"C:/Users/bolem_ptuqj/Documents/Projektek/QLineDecreaser/menu_logo.png",
+		"C:/Users/bolem_ptuqj/Documents/Projektek/QLineDecreaser/logo_icon.png"
+	],
+	"LOCK_FILE" : "C:/Users/bolem_ptuqj/Documents/Projektek/QLineDecreaser Build/CMakeFiles/QLineDecreaser_autogen.dir/AutoRcc_res_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "res" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_res.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.6.2/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/bolem_ptuqj/Documents/Projektek/QLineDecreaser Build/CMakeFiles/QLineDecreaser_autogen.dir/AutoRcc_res_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Users/bolem_ptuqj/Documents/Projektek/QLineDecreaser/res.qrc",
+	"VERBOSITY" : 0
+}
