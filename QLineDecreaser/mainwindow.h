@@ -78,8 +78,6 @@ private slots:
 
     void resetRadioButtons();
 
-    void on_textEditNum_cursorPositionChanged(int arg1, int arg2);
-
 private:
     Ui::MainWindow *ui;
     QTimer *timer;

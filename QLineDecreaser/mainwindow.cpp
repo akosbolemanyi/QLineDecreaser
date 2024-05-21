@@ -561,10 +561,9 @@ void MainWindow::on_pushBackToMain_2_clicked()
     outputFileFB.close();
 
     resetRadioButtons();
-
+    }
     // Átirányítás a thank_page oldalra.
     ui->stackedWidget->setCurrentIndex(5);
-    }
 }
 
 

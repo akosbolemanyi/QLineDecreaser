@@ -1,13 +1,13 @@
 # ninja log v5
-8	49	0	C:/Users/bolem_ptuqj/Documents/Projektek/QLineDecreaser Executable/CMakeFiles/cmake.verify_globs	6a00d8ece55d67ac
-8	1367	7373772722860983	QLineDecreaser_autogen/timestamp	83422699a73a4cea
-8	1367	7373772722860983	QLineDecreaser_autogen/mocs_compilation.cpp	83422699a73a4cea
-8	1367	7373772722860983	C:/Users/bolem_ptuqj/Documents/Projektek/QLineDecreaser Executable/QLineDecreaser_autogen/timestamp	83422699a73a4cea
-8	1367	7373772722860983	C:/Users/bolem_ptuqj/Documents/Projektek/QLineDecreaser Executable/QLineDecreaser_autogen/mocs_compilation.cpp	83422699a73a4cea
-1368	1829	7373772728646963	QLineDecreaser_autogen/EWIEGA46WW/qrc_res.cpp	87d07e90133fb534
-1368	1829	7373772728646963	C:/Users/bolem_ptuqj/Documents/Projektek/QLineDecreaser Executable/QLineDecreaser_autogen/EWIEGA46WW/qrc_res.cpp	87d07e90133fb534
-1841	7406	7373772783497421	CMakeFiles/QLineDecreaser.dir/main.cpp.obj	e99c5b847311061f
-1830	8505	7373772795264227	CMakeFiles/QLineDecreaser.dir/QLineDecreaser_autogen/mocs_compilation.cpp.obj	3ce964b8cf1899e4
-1847	11064	7373772820910619	CMakeFiles/QLineDecreaser.dir/mainwindow.cpp.obj	fca5c5a80af1e02a
-1836	11373	7373772824129722	CMakeFiles/QLineDecreaser.dir/QLineDecreaser_autogen/EWIEGA46WW/qrc_res.cpp.obj	a3105ea0dadb081c
-11374	11784	7373772828121671	QLineDecreaser.exe	929690fccf313eb9
+9	69	0	C:/Users/bolem_ptuqj/Documents/Projektek/QLineDecreaser Executable/CMakeFiles/cmake.verify_globs	6a00d8ece55d67ac
+6	2343	7379868674883086	QLineDecreaser_autogen/timestamp	83422699a73a4cea
+6	2343	7379868674883086	QLineDecreaser_autogen/mocs_compilation.cpp	83422699a73a4cea
+6	2343	7379868674883086	C:/Users/bolem_ptuqj/Documents/Projektek/QLineDecreaser Executable/QLineDecreaser_autogen/timestamp	83422699a73a4cea
+6	2343	7379868674883086	C:/Users/bolem_ptuqj/Documents/Projektek/QLineDecreaser Executable/QLineDecreaser_autogen/mocs_compilation.cpp	83422699a73a4cea
+2344	2657	7379868679465587	QLineDecreaser_autogen/EWIEGA46WW/qrc_res.cpp	87d07e90133fb534
+2344	2657	7379868679465587	C:/Users/bolem_ptuqj/Documents/Projektek/QLineDecreaser Executable/QLineDecreaser_autogen/EWIEGA46WW/qrc_res.cpp	87d07e90133fb534
+2676	8535	7379868738266935	CMakeFiles/QLineDecreaser.dir/QLineDecreaser_autogen/mocs_compilation.cpp.obj	3ce964b8cf1899e4
+2682	9157	7379868744381052	CMakeFiles/QLineDecreaser.dir/main.cpp.obj	e99c5b847311061f
+2694	13376	7379868786769878	CMakeFiles/QLineDecreaser.dir/mainwindow.cpp.obj	fca5c5a80af1e02a
+2688	13647	7379868789383469	CMakeFiles/QLineDecreaser.dir/QLineDecreaser_autogen/EWIEGA46WW/qrc_res.cpp.obj	a3105ea0dadb081c
+13647	14013	7379868792959102	QLineDecreaser.exe	929690fccf313eb9

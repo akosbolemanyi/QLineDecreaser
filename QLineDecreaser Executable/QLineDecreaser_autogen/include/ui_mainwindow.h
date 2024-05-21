@@ -1092,11 +1092,11 @@ public:
         horizontalLayout_8->addWidget(cleanVeryHigh);
 
         stackedWidget->addWidget(feedback_page);
-        layoutWidget2->raise();
-        layoutWidget2->raise();
-        layoutWidget2->raise();
-        layoutWidget2->raise();
-        layoutWidget2->raise();
+        layoutWidget->raise();
+        layoutWidget->raise();
+        layoutWidget->raise();
+        layoutWidget->raise();
+        layoutWidget->raise();
         label_products_23->raise();
         pushBackToMain->raise();
         label_products_24->raise();
