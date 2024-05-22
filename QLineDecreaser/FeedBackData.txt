@@ -328,3 +328,13 @@ Satisfaction with the staff: 3
 -------------------- END OF FEEDBACK --------------------
 
 
+Timestamp: 2024-05-22 11:18:15
+------------------------------
+Ratings on a scale from 1-5 stars.
+Taste of food: 2
+Satisfaction with the staff: 2
+
+
+-------------------- END OF FEEDBACK --------------------
+
+

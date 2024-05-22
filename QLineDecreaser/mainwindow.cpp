@@ -562,8 +562,10 @@ void MainWindow::on_pushBackToMain_2_clicked()
 
     resetRadioButtons();
     }
-    // Átirányítás a thank_page oldalra.
-    ui->stackedWidget->setCurrentIndex(5);
+    if (isSelected) {
+        // Átirányítás a thank_page oldalra.
+        ui->stackedWidget->setCurrentIndex(5);
+    }
 }
 
 

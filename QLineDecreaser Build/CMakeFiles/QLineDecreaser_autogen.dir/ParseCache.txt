@@ -412,6 +412,6 @@ C:/Users/bolem_ptuqj/Documents/Projektek/QLineDecreaser/mainwindow.h
  mdp:C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/wctype.h
  mdp:C:/Users/bolem_ptuqj/Documents/Projektek/QLineDecreaser Build/QLineDecreaser_autogen/moc_predefs.h
  mdp:C:/Users/bolem_ptuqj/Documents/Projektek/QLineDecreaser/mainwindow.h
+C:/Users/bolem_ptuqj/Documents/Projektek/QLineDecreaser/main.cpp
 C:/Users/bolem_ptuqj/Documents/Projektek/QLineDecreaser/mainwindow.cpp
  uic:./ui_mainwindow.h
-C:/Users/bolem_ptuqj/Documents/Projektek/QLineDecreaser/main.cpp
